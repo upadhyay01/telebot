@@ -1,0 +1,2 @@
+BOTNAME = "Golu"
+TOKEN = "5448168830:AAE1-iVqcpxtEfnvuQXpw3NBooFGW7joGiE"
